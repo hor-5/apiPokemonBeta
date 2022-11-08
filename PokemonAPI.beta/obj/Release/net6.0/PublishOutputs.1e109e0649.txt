@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\PokemonAPI.beta\PokemonAPI.beta\obj\Release\net6.0\PubTmp\Out\PokemonAPI.beta.exe
+C:\Users\Usuario\source\repos\PokemonAPI.beta\PokemonAPI.beta\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Usuario\source\repos\PokemonAPI.beta\PokemonAPI.beta\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Usuario\source\repos\PokemonAPI.beta\PokemonAPI.beta\obj\Release\net6.0\PubTmp\Out\PokemonAPI.beta.dll
+C:\Users\Usuario\source\repos\PokemonAPI.beta\PokemonAPI.beta\obj\Release\net6.0\PubTmp\Out\PokemonAPI.beta.deps.json
+C:\Users\Usuario\source\repos\PokemonAPI.beta\PokemonAPI.beta\obj\Release\net6.0\PubTmp\Out\PokemonAPI.beta.runtimeconfig.json
+C:\Users\Usuario\source\repos\PokemonAPI.beta\PokemonAPI.beta\obj\Release\net6.0\PubTmp\Out\PokemonAPI.beta.pdb
+C:\Users\Usuario\source\repos\PokemonAPI.beta\PokemonAPI.beta\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Usuario\source\repos\PokemonAPI.beta\PokemonAPI.beta\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\source\repos\PokemonAPI.beta\PokemonAPI.beta\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\source\repos\PokemonAPI.beta\PokemonAPI.beta\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

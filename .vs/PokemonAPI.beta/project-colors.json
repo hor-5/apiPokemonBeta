@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0c71b10-5af3-42ca-b4fc-fc5b921de351": {
+      "ProjectGuid": "b0c71b10-5af3-42ca-b4fc-fc5b921de351",
+      "DisplayName": "PokemonAPI.beta",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
